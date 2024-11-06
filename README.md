@@ -1,7 +1,6 @@
 #include<stdio.h>   
 int fib(int n)
 int isPrime(int N)
-int 
 if(n>0)
 {
   n3=n1+n2;    

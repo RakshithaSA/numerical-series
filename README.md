@@ -1,4 +1,6 @@
 #include<stdio.h>   
+int fib(int n)
+int isPrime(int N)
 
 int main()    
 {    
